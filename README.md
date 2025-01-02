@@ -1,2 +1,2 @@
-# DIM_MATLAB_toolbox
-DIM is a collection of MATLAB scripts to inversely estimate parameters of CTRW-TPL model using TLBO algorithm. 
+# CTRW-TPL-TLBO
+CTRW-TPL-TLBO is a collection of MATLAB m-files to inversely estimate parameters of CTRW-TPL model using TLBO algorithm. 
